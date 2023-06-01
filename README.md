@@ -6,7 +6,7 @@ Posted on **[Kaggle](https://www.kaggle.com/code/wesleyacheng/twitter-emotion-cl
 
 While I was making my **[Angry Birds Classifier](https://www.kaggle.com/code/wesleyacheng/angry-birds-classifier)** to classify if tweets are angry or not, I thought why don't we add **2** more emotions - **Joy and Sadness** into the mix!
 
-![twitter-emotion](https://github.com/wesleyacheng/twitter-emotion-classification-with-bert/assets/15952538/cee9a232-0f8d-496a-940f-653210f26849)
+<img width="370" alt="twitter-emotion" src="https://github.com/wesleyacheng/twitter-emotion-classification-with-bert/assets/15952538/f9eb1786-36cf-4838-a30a-b072be7090c3">
 
 Here we will be creating a **Multiclass Text Classifier** that classifies tweets as either having **JOY, SADNESS, or ANGER**.
 
